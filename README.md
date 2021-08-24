@@ -4,7 +4,7 @@
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
-<a href="pitroda.np@gmail.com">
+<a href="mailto:pitroda.np@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.instagram.com/naitik_pitroda/">
