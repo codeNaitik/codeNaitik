@@ -1,4 +1,4 @@
-### Hi..., I'm [Naitik Pitroda!](https://)
+### Hi..., I'm [Naitik Pitroda!](https://codenaitik.github.io/NaitikPitroda/)
 
 <a href="https://www.linkedin.com/in/naitik-pitroda-75056b1a9/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
