@@ -23,6 +23,8 @@
 
 ### My Experiences 🙌
 
+- [Internshala student partner'24](https://internshala.com/) (ISP'24) work is to conduct webinar and make awarness about thier organization in college and universities. 
+- [Coding Minutes](https://codingminutes.com/) (Campus Captain) as i have to conduct events, seminars, workshops in college.
 - [IIM Bangalore Business summit'21](https://www.iimb-vista.com/vcap-2021/) (Campus Ambassador) is now one of Asia’s largest business festivals. Vista is an opportunity to learn, grow, and battle your wits out with the brightest minds across all domains within business and management.
 Vista Campus Ambassador program is an internship opportunity that is provided by Team Vista of IIM Bangalore. Ambassadors helps to connect Vista to the students in their own campus and explore business webinar and programs .
 - [E-cell IIT Bombay](https://www.ecell.in/2020/) (Campus Ambassador) believe that entrepreneurship is the key to India’s development. I have learned how to create audience and how to interact with community.
