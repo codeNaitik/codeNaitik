@@ -22,7 +22,8 @@
 👨‍💻  I am passionate about Flutter, Web Dev, Mobile dev & Love to build and enjoying new things. </br>
 
 ### My Experiences 🙌
-
+- [Open Source  @ Script Winter Of code](https://swoc.scriptindia.org/#/) Its an 3 month program for studnent building projects under mentor and enhancing open source contribution.
+- [Web development Intern @ LUEURTECH SOFTWARE SOLUTIONS PVT. LTD.](https://www.startupgali.com/company/lueurtech-software-solutions-private-limited/U72900KA2021PTC154544) After successfully securing interview test i got this Web Development Internship at LUEURTECH SOFTWARE SOLUTIONS PVT. LTD. working on given task on daily basis with given time period. Ensuring the feasibility of designs and website of client. Test for its experience.
 - [Web development Intern @ Gramm Swaraj Foundation](http://www.gramswarajfoundation.org/) We are group of developer's used to work on front-end part updating UI and adding attractive element on website. Adding all required things and updating it on daily basis.
 - [Web designing Intern @Internshipstudio](https://internshipstudio.com/) on time of intern created an E-commerce website using Html, css, bootstrap, javascript. From starting home page to payment gateway includes cart, variety lobby, home page, billing etc .
 - [Internshala student partner'24](https://internshala.com/) (ISP'24) work is to conduct webinar and make awarness about thier organization in college and universities. 
