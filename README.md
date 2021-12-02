@@ -23,6 +23,7 @@
 
 ### My Experiences 🙌
 - [Open Source  @ Script Winter Of code](https://swoc.scriptindia.org/#/) Its an 3 month program for studnent building projects under mentor and enhancing open source contribution.
+- [web Dev Lead @ Google Developer Student Club ](https://developers.google.com/community/gdsc/leads) As an Google Developer Student Club Web Development Leader may work is to organize events, Hackathon, quiz, podcast among college with core GDSC team member and mentoring student among campus
 - [Web development Intern @ LUEURTECH SOFTWARE SOLUTIONS PVT. LTD.](https://www.startupgali.com/company/lueurtech-software-solutions-private-limited/U72900KA2021PTC154544) After successfully securing interview test i got this Web Development Internship at LUEURTECH SOFTWARE SOLUTIONS PVT. LTD. working on given task on daily basis with given time period. Ensuring the feasibility of designs and website of client. Test for its experience.
 - [Web development Intern @ Gramm Swaraj Foundation](http://www.gramswarajfoundation.org/) We are group of developer's used to work on front-end part updating UI and adding attractive element on website. Adding all required things and updating it on daily basis.
 - [Web designing Intern @Internshipstudio](https://internshipstudio.com/) on time of intern created an E-commerce website using Html, css, bootstrap, javascript. From starting home page to payment gateway includes cart, variety lobby, home page, billing etc .
