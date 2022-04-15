@@ -22,7 +22,11 @@
 👨‍💻  I am passionate about Flutter, Web Dev, Mobile dev & Love to build and enjoying new things. </br>
 
 ### My Experiences 🙌
-- [Open Source  @ Script Winter Of code](https://swoc.scriptindia.org/#/) Its an 3 month program for studnent building projects under mentor and enhancing open source contribution.
+
+- Product Engineer  @ Etab technologies - Desigining product using figma, enhancing UI/UX skills and converting design into real world product. tech: react, nodejs, figma, UI/UX. Product different stages, deployment. 
+- [Associate Product Management Fellowship at @ProductHood](https://www.producthood.com/) learning on product management and their different roles. 
+- [Open Source  @ Girl script summer of code](https://gssoc.girlscript.tech/) Its an 3 month program summer program for studnent building projects under mentor and enhancing open source contribution.
+- [Open Source  @ Script Winter Of code](https://swoc.scriptindia.org/#/) Its an 3 month program for student building projects under mentor and enhancing open source contribution.
 - [web Dev Lead @ Google Developer Student Club ](https://developers.google.com/community/gdsc/leads) As an Google Developer Student Club Web Development Leader may work is to organize events, Hackathon, quiz, podcast among college with core GDSC team member and mentoring student among campus
 - [Web development Intern @ LUEURTECH SOFTWARE SOLUTIONS PVT. LTD.](https://www.startupgali.com/company/lueurtech-software-solutions-private-limited/U72900KA2021PTC154544) After successfully securing interview test i got this Web Development Internship at LUEURTECH SOFTWARE SOLUTIONS PVT. LTD. working on given task on daily basis with given time period. Ensuring the feasibility of designs and website of client. Test for its experience.
 - [Web development Intern @ Gramm Swaraj Foundation](http://www.gramswarajfoundation.org/) We are group of developer's used to work on front-end part updating UI and adding attractive element on website. Adding all required things and updating it on daily basis.
