@@ -1,43 +1,30 @@
-### Hi..., I'm [Naitik Pitroda!](https://codenaitik.github.io/NaitikPitroda/)
+# 💫 About Me:
+🔭 I’m currently working on MERN Stack Applications<br>👯 I’m looking to collaborate on it.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MERN, JAVA<br>
 
-<a href="https://www.linkedin.com/in/naitik-pitroda-75056b1a9/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
 
-<a href="mailto:pitroda.np@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.instagram.com/naitik_pitroda/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://dev.to/naitik_pitroda">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naitik.codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naitik-pitroda-75056b1a9/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/naitik_pitroda) 
 
-<br />
-<hr>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codeNaitik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeNaitik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeNaitik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### About Me 🚀
-🎓 I’m an Open-Source and web development enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Flutter, Web Dev, Mobile dev & Love to build and enjoying new things. </br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codeNaitik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### My Experiences 🙌
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- Product Engineer  @ Etab technologies - Desigining product using figma, enhancing UI/UX skills and converting design into real world product. tech: react, nodejs, figma, UI/UX. Product different stages, deployment. 
-- [Associate Product Management Fellowship at @ProductHood](https://www.producthood.com/) learning on product management and their different roles. 
-- [Open Source  @ Girl script summer of code](https://gssoc.girlscript.tech/) Its an 3 month program summer program for studnent building projects under mentor and enhancing open source contribution.
-- [Open Source  @ Script Winter Of code](https://swoc.scriptindia.org/#/) Its an 3 month program for student building projects under mentor and enhancing open source contribution.
-- [web Dev Lead @ Google Developer Student Club ](https://developers.google.com/community/gdsc/leads) As an Google Developer Student Club Web Development Leader may work is to organize events, Hackathon, quiz, podcast among college with core GDSC team member and mentoring student among campus
-- [Web development Intern @ LUEURTECH SOFTWARE SOLUTIONS PVT. LTD.](https://www.startupgali.com/company/lueurtech-software-solutions-private-limited/U72900KA2021PTC154544) After successfully securing interview test i got this Web Development Internship at LUEURTECH SOFTWARE SOLUTIONS PVT. LTD. working on given task on daily basis with given time period. Ensuring the feasibility of designs and website of client. Test for its experience.
-- [Web development Intern @ Gramm Swaraj Foundation](http://www.gramswarajfoundation.org/) We are group of developer's used to work on front-end part updating UI and adding attractive element on website. Adding all required things and updating it on daily basis.
-- [Web designing Intern @Internshipstudio](https://internshipstudio.com/) on time of intern created an E-commerce website using Html, css, bootstrap, javascript. From starting home page to payment gateway includes cart, variety lobby, home page, billing etc .
-- [Internshala student partner'24](https://internshala.com/) (ISP'24) work is to conduct webinar and make awarness about thier organization in college and universities. 
-- [Coding Minutes](https://codingminutes.com/) (Campus Captain) I have to conduct events, seminars, workshops in college and explore it's branding among students.
-- [IIM Bangalore Business summit'21](https://www.iimb-vista.com/vcap-2021/) (Campus Ambassador) is now one of Asia’s largest business festivals. Vista is an opportunity to learn, grow, and battle your wits out with the brightest minds across all domains within business and management.
-Vista Campus Ambassador program is an internship opportunity that is provided by Team Vista of IIM Bangalore. Ambassadors helps to connect Vista to the students in their own campus and explore business webinar and programs .
-- [E-cell IIT Bombay](https://www.ecell.in/2020/) (Campus Ambassador) believe that entrepreneurship is the key to India’s development. I have learned how to create audience and how to interact with community.
-- [National Engineering Olympiad (NEO)](https://nationalolympiad.org/) (Campus Ambassador) it's an organization which takes engineering Olympiad through out country among various engg fields. I learned about public speaking, generating leads, about branding and representing it among campus.
-- [United Nations v-force volunteer)](https://v-force.in/) (Volunteered) is program for volunteering people and guiding people related to covid-19. I learned about social media marketing , creating poster's , writing quotes, sharing useful information among people's, vaccination info and many more.
-- [sarvahitey(YOLO)](https://www.sarvahitey.org/)(Volunteered) is an NGO helping students to standup and support them by providing education and necessary requirement's. I have worked on organizing webinar, creating creative poster's , management, memes making, sharing all information at social media platform among India.
-- [Mim-essay](https://www.mim-essay.com/)(Campus President) is an International study consultancy which helps student to select which college/university at abroad and other related information. I am working for it branding among my college and near by college/ university creating awareness among students, handling it's social media handle's. 
-- [Google crowdsource influencer](https://crowdsource.google.com/) spreading awareness among people about it and telling them to contributing it from it's App/website.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codeNaitik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=codeNaitik&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
